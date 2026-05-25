@@ -1,0 +1,10 @@
+# Pastas de build e dependências (o Git NÃO deve olhar aqui)
+node_modules/
+target/
+.angular/
+.vscode/
+dist/
+.settings/
+.classpath
+.project
+bin/
