@@ -1,10 +1,13 @@
-# Pastas de build e dependências (o Git NÃO deve olhar aqui)
+# Dependências e Builds
 node_modules/
 target/
 .angular/
-.vscode/
 dist/
+bin/
+# Configurações de IDE
+.vscode/
 .settings/
 .classpath
 .project
-bin/
+# Arquivos de Sistema
+.DS_Store
